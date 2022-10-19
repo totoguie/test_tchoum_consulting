@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "63500cfbf539039fd096267a"
+  },
+  "code": "AF",
+  "nom": "Afrique",
+  "superficie": "30,37 millions",
+  "population": "640 millions",
+  "langues": "anglais, francais, espagnole, portugais"
+},{
+  "_id": {
+    "$oid": "635012bdf539039fd0962680"
+  },
+  "code": "NA",
+  "nom": "Amerique du nord",
+  "superficie": "24,71 millions",
+  "population": "579 millions",
+  "langues": "anglais, espagnole, portugais"
+},{
+  "_id": {
+    "$oid": "635012dff539039fd0962686"
+  },
+  "code": "OC",
+  "nom": "Oceanie",
+  "superficie": "8,526 millions",
+  "population": " ",
+  "langues": "anglais,"
+},{
+  "_id": {
+    "$oid": "63501335f539039fd096268d"
+  },
+  "code": "AN",
+  "nom": "Antartique",
+  "superficie": "13,66 millions",
+  "population": " ",
+  "langues": "anglais,"
+},{
+  "_id": {
+    "$oid": "63501369f539039fd0962693"
+  },
+  "code": "AS",
+  "nom": "Asie",
+  "superficie": "44,58 millions km²",
+  "population": "4,561 milliards (2018)",
+  "langues": "anglais, russe,chinois, japonais,arabe,chinois"
+},{
+  "_id": {
+    "$oid": "635013a6f539039fd09626a1"
+  },
+  "code": "EU",
+  "nom": "Europe",
+  "superficie": "4,561 milliards",
+  "population": "746,4 millions",
+  "langues": "anglais, francais, espagnole, portugais"
+},{
+  "_id": {
+    "$oid": "635013cdf539039fd09626a7"
+  },
+  "code": "SA",
+  "nom": "Amerique du sud",
+  "superficie": "17,84 millions",
+  "population": "422,5 millions",
+  "langues": "anglais, espagnole, portugais"
+}]
